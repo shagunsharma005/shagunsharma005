@@ -1,7 +1,7 @@
 ## Hi there 👋I'm Shagun Sharma
 
 # 💫 About Me:
-A final-year B.Tech student in CSE (AI & ML) at JNGEC, Sundernagar, Himachal Pradesh.<br>Passionate about integrating AI models with real-world systems and advancing ML for practical, high-impact solutions.<br>Experienced in developing end-to-end ML pipelines, LLM-powered tools, and computer-vision systems.<br>I aspire to contribute to the field of AI by developing applications that enhance automation and decision-making.<br>You can contact me at letter4shagun@gmail.com<br>Turning ideas into intelligent solutions – join me on the journey!
+A final-year B.Tech student in CSE (AI & ML) at JNGEC, Sundernagar, Himachal Pradesh.<br>Passionate about integrating AI models with real-world systems and advancing ML for practical, high-impact solutions.<br>Experienced in developing end-to-end ML pipelines, LLM-powered tools, and computer-vision systems.<br>I aspire to contribute to the field of AI by developing applications that enhance automation and decision-making.<br>You can contact me at shagunsharma2103@gmail.com<br>Turning ideas into intelligent solutions – join me on the journey!
 
 
 ## 🌐 Socials:
